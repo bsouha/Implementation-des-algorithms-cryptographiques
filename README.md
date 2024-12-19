@@ -31,6 +31,6 @@ Pour cloner et configurer le projet sur votre machine locale :
 
     Installez les dépendances nécessaires, si nécessaire.
 
-Utilisation
+## Utilisation
 
 Après avoir cloné le projet, vous pouvez exécuter les algorithmes selon les instructions fournies dans le code. N'hésitez pas à les explorer et à les modifier pour un apprentissage et une recherche supplémentaires.
