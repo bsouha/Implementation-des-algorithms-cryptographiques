@@ -34,36 +34,9 @@ To clone and set up the project on your local machine:
 Usage
 
 After cloning the project, you can execute the algorithms as per the provided instructions in the code. Feel free to explore and modify them for further learning and research.
-License
-
-This project is open source and available under the MIT License.
 
 
-### Steps to Add and Push the README:
 
-1. **Create the README file**:
-   In your project directory (`C:\Users\HP\Desktop\Cryptography_algos`), create a new file named `README.md`.
-
-2. **Add the content**:
-   Copy the updated README content above and paste it into your `README.md` file.
-
-3. **Commit and push to GitHub**:
-   Once you've added the README file, follow these steps to push the changes:
-
-   - Add the README file to Git:
-     ```bash
-     git add README.md
-     ```
-
-   - Commit the changes:
-     ```bash
-     git commit -m "Added README file with algorithm names"
-     ```
-
-   - Push the changes to GitHub:
-     ```bash
-     git push
-     ```
 
 
 
